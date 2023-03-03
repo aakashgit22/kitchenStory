@@ -1,0 +1,101 @@
+{
+  "seller": [
+    {
+      "email": "sam@gmail.com",
+      "firstName": "sam",
+      "password": "sam",
+      "id": 1
+    },
+    {
+      "name": "Anil kumar",
+      "email": "anil@gmail.com",
+      "password": "anil",
+      "id": 2
+    },
+    {
+      "first_Name": "aakash",
+      "password": "aakash",
+      "email": "aakashsharma.aec@gmail.com",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "anil123",
+      "id": 1
+    },
+    {
+      "first_Name": "priya",
+      "password": "priya",
+      "email": "priy",
+      "id": 2
+    },
+    {
+      "first_Name": "priya",
+      "password": "priya",
+      "email": "priya@gmail.com",
+      "id": 3
+    },
+    {
+      "first_Name": "krish",
+      "password": "krish",
+      "email": "krish@gmail.com",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "paneer butter masala",
+      "price": "250",
+      "category": "veg",
+      "description": "paneer with extra cheese",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFuZWVyJTIwYnV0dGVyJTIwbWFzYWxhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 1
+    },
+    {
+      "name": "veg noodles",
+      "price": "150",
+      "category": "veg",
+      "description": "classic vegetable  noodles",
+      "image": "https://images.unsplash.com/photo-1648421778395-82d9881acf72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fHZlZyUyMG5vb2RsZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "id": 2
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": "350",
+      "category": "non veg",
+      "description": "Hyderabadi delicious chicken Biryani",
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "id": 3
+    },
+    {
+      "name": "tasty chicken samosa",
+      "price": "60",
+      "category": "non veg",
+      "description": "chicken samosa ",
+      "image": "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2Ftb3NhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 4
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "aakashsharma.aec@gmail.com",
+      "address": "abc , sxy.dhyjd",
+      "contact": "45442485565",
+      "totalPrice": 400,
+      "userId": 4,
+      "id": 2
+    }
+  ]
+}
