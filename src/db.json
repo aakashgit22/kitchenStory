@@ -51,7 +51,7 @@
       "price": "250",
       "category": "veg",
       "description": "paneer with extra cheese",
-      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFuZWVyJTIwYnV0dGVyJTIwbWFzYWxhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "image": "././././assets/img/1c",
       "id": 1
     },
     {
@@ -59,7 +59,7 @@
       "price": "150",
       "category": "veg",
       "description": "classic vegetable  noodles",
-      "image": "https://images.unsplash.com/photo-1648421778395-82d9881acf72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fHZlZyUyMG5vb2RsZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "image": "././././assets/img/2",
       "id": 2
     },
     {
@@ -67,7 +67,7 @@
       "price": "350",
       "category": "non veg",
       "description": "Hyderabadi delicious chicken Biryani",
-      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "image": "././././assets/img/chicken biryani",
       "id": 3
     },
     {
@@ -75,7 +75,7 @@
       "price": "60",
       "category": "non veg",
       "description": "chicken samosa ",
-      "image": "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2Ftb3NhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "image": "././././assets/img/paneer butter masala",
       "id": 4
     }
   ],
